@@ -1,0 +1,33 @@
+.wrapper{
+	margin: 5px;
+}
+
+.base{
+	width: 175px;
+	height: 175px;
+	background-color: #bbbbdd;
+	position: absolute;
+}
+
+.right-eye{
+	width: 10px;
+	height: 10px;
+	position: relative;
+	z-index: 41;
+	border: solid 1px black;
+	top: 95;
+	left:75;
+	background-color: #ffe6ff;
+}
+
+.left-eye{
+	width: 10px;
+	height: 10px;
+	position: relative;
+	z-index: 1;
+	border: solid 3px black;
+	top: 35;
+	right:25;
+	background-color: #ffe6ff;
+
+}
