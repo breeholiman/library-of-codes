@@ -83,7 +83,7 @@ petNameandBreed("Rufus", "weiner dog");
 
 function productTaxe(x, y) {
 	var produceCost = x
-	var numberOfProduct = 7
+	var numberOfProduct = y
 	console.log("The product cost plus tax is ", x * y *0.07 + x * y)
 }
 
