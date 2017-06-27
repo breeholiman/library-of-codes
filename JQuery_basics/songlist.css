@@ -1,0 +1,21 @@
+body{
+	background-color: #800000;
+}
+ul{
+	list-style: none;
+}
+li{
+	list-style: none;
+}
+#wrapper {
+	width: 60%
+	height:500px;
+	margin: 0 auto;
+	background-color: #EEE;
+	text-align: center;
+	padding: 0;
+}
+li:nth-child(even){
+	background-color: #DDD;
+}
+li:nth-child(odd){background-color: #EEE}
