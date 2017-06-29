@@ -1,5 +1,309 @@
 .base {
-	width: 25px;
-	height: 35px;
-	
+	width: 350px;
+	height: 400px;
+	border:solid 10px black;
+	border-radius: 850px 850px 850px 850px;
+	z-index: 4;
+	position: absolute;
+	left: 350px;
+	top:200px;
+	background-color: #a6a6a6;
+}
+.right_eye {
+	width: 75px;
+	height: 75px;
+	border: 0px;
+	border-radius:50px, 850px, 850px, 850px;
+	z-index: 4;
+	position: relative;
+	left: 280px;
+	top: 130px;
+	background-color: white;
+
+}
+.left_eye {
+	width: 
+	height:;
+	border: 
+	border-radius:;
+	z-index: ;
+	position:;
+	left: 
+	top:;
+	background-color: 
+}
+.mouth {
+	width: 
+	height:;
+	border: 
+	border-radius:;
+	z-index: ;
+	position:;
+	left: 
+	top:;
+	background-color: 
+}
+.jaw {
+	width: 
+	height:;
+	border: 
+	border-radius:;
+	z-index: ;
+	position:;
+	left: 
+	top:;
+	background-color: 
+}
+.inner_eye_1{
+	width: 
+	height:;
+	border: 
+	border-radius:;
+	z-index: ;
+	position:;
+	left: 
+	top:;
+	background-color: 
+}
+.inner_eye_2{
+	width: 
+	height:;
+	border: 
+	border-radius:;
+	z-index: ;
+	position:;
+	left: 
+	top:;
+	background-color: 
+}
+.tooth_01 {
+	width: 
+	height:;
+	border: 
+	border-radius:;
+	z-index: ;
+	position:;
+	left: 
+	top:;
+	background-color: 
+}
+.tooth_02 {
+	width: 
+	height:;
+	border: 
+	border-radius:;
+	z-index: ;
+	position:;
+	left: 
+	top:;
+	background-color: 
+}
+.tooth_03 {
+	width: 
+	height:;
+	border: 
+	border-radius:;
+	z-index: ;
+	position:;
+	left: 
+	top:;
+	background-color: 
+}
+.tooth_04 {
+	width: 
+	height:;
+	border: 
+	border-radius:;
+	z-index: ;
+	position:;
+	left: 
+	top:;
+	background-color: 
+}
+.tooth_05 {
+	width: 
+	height:;
+	border: 
+	border-radius:;
+	z-index: ;
+	position:;
+	left: 
+	top:;
+	background-color: 
+}
+.tooth_06 {
+	width: 
+	height:;
+	border: 
+	border-radius:;
+	z-index: ;
+	position:;
+	left: 
+	top:;
+	background-color: 
+}
+.tooth_07 {
+	width: 
+	height:;
+	border: 
+	border-radius:;
+	z-index: ;
+	position:;
+	left: 
+	top:;
+	background-color: 
+}
+.tooth_08 {
+	width: 
+	height:;
+	border: 
+	border-radius:;
+	z-index: ;
+	position:;
+	left: 
+	top:;
+	background-color: 
+}
+.tooth_09 {
+	width: 
+	height:;
+	border: 
+	border-radius:;
+	z-index: ;
+	position:;
+	left: 
+	top:;
+	background-color: 
+}
+.tooth_10 {
+	width: 
+	height:;
+	border: 
+	border-radius:;
+	z-index: ;
+	position:;
+	left: 
+	top:;
+	background-color: 
+}
+.tooth_11 {
+	width: 
+	height:;
+	border: 
+	border-radius:;
+	z-index: ;
+	position:;
+	left: 
+	top:;
+	background-color: 
+}
+.tooth_12 {
+	width: 
+	height:;
+	border: 
+	border-radius:;
+	z-index: ;
+	position:;
+	left: 
+	top:;
+	background-color: 
+}
+.tooth_13 {
+	width: 
+	height:;
+	border: 
+	border-radius:;
+	z-index: ;
+	position:;
+	left: 
+	top:;
+	background-color: 
+}
+.tooth_14 {
+	width: 
+	height:;
+	border: 
+	border-radius:;
+	z-index: ;
+	position:;
+	left: 
+	top:;
+	background-color: 
+}
+.tooth_15 {
+	width: 
+	height:;
+	border: 
+	border-radius:;
+	z-index: ;
+	position:;
+	left: 
+	top:;
+	background-color: 
+}
+.tooth_16 {
+	width: 
+	height:;
+	border: 
+	border-radius:;
+	z-index: ;
+	position:;
+	left: 
+	top:;
+	background-color: 
+}
+.tooth_17 {
+	width: 
+	height:;
+	border: 
+	border-radius:;
+	z-index: ;
+	position:;
+	left: 
+	top:;
+	background-color: 
+}
+.tooth_18 {
+	width: 
+	height:;
+	border: 
+	border-radius:;
+	z-index: ;
+	position:;
+	left: 
+	top:;
+	background-color: 
+}
+.tooth_19 {
+	width: 
+	height:;
+	border: 
+	border-radius:;
+	z-index: ;
+	position:;
+	left: 
+	top:;
+	background-color: 
+}
+.tooth_20 {
+	width: 
+	height:;
+	border: 
+	border-radius:;
+	z-index: ;
+	position:;
+	left: 
+	top:;
+	background-color: 
+}
+.hidden {
+	width: 
+	height:;
+	border: 
+	border-radius:;
+	z-index: ;
+	position:;
+	left: 
+	top:;
+	background-color: 
 }

@@ -1,0 +1,67 @@
+/*general*/
+body {
+	font-size: 67.5%;
+	font-family: 'Oswald', 'Open Sans Condensed', 'Patrick Hand SC', 'Yellowtail', cursive, sans-serif;
+	font-color:#ffffff;
+	background: #39150c url(img/bg_01.jpg) no-repeat fixed top center;
+	padding: 0;
+	margin: 0;
+	-webkit-background-size: 100% 100%;
+	-moz-background-size: 100% 100%;
+	background-size: 100% 100%;
+	-o-background-size: 100% 100%;
+	margin: 75px 75px 75px 75px;
+	padding: 30px 30px 30px 30px;
+}
+/*header*/
+.head_title {
+	font-size: 40px;
+	color: #adad85;
+	background-color: black;
+}
+.sidebar h3 {
+	font-size: 20px;
+	background-color: #adad85;
+}
+.sidebar {
+	font-size: 15px;
+	background-color: white;
+}
+/*login menu*/
+nav {
+	float: right;
+	background-color: black;
+	height: 1.3em;
+	letter-spacing: 0.04em;
+}
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+nav li {
+	display: inline-block;
+	margin: 0;
+}
+nav li a, nav li a:visited {
+	text-decoration: none;
+	color: #59b300;
+	padding: 0.3em 0.6em;
+}
+nav li a:hover {
+	color: #1a3300;
+	background-color: black;
+}
+
+
+/*main*/
+#main {
+	font-size: 25px;
+	background-color: #dfbe9f;
+}
+/*footer*/
+footer {
+	font-size: 10px;
+	color: white;
+	background-color: black;
+}
